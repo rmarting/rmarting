@@ -20,12 +20,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi :open_hands: !!!
-
 ```shell
 ❯ oc whoami
 rmarting, jromanmartin
 ```
+and 
 
 ```shell
 ❯ oc describe user rmarting
