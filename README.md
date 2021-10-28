@@ -32,10 +32,10 @@ Name: Jose Roman Martin Gil
 Short-Name: Roman Martin
 Created: 45 years ago
 Labels: father, husband, friend, runner, curious, red hatter, developer (in any order)
-Annotations: Principal Middleware Architect @ Red Hat
+Annotations: Principal Architect @ Red Hat
 Identities: 
-	GitHub: 	https://github.com/rmarting
-    LinkedIn:	https://www.linkedin.com/in/jromanmartin/
+  GitHub: https://github.com/rmarting
+  LinkedIn: ://www.linkedin.com/in/jromanmartin/
 ```
 
 Nice to meet you :blush: !!!
