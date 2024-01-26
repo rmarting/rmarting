@@ -53,7 +53,9 @@ I like to share my knowledge and experience writing articles or giving presentat
 review my [blog](https://blog.jromanmartin.io). Always ready!!
 
 If you are interested in my background, skills or other professional references,
-my [LinkedIn profile](https://www.linkedin.com/in/jromanmartin/) is the right place.
+my [LinkedIn profile](https://www.linkedin.com/in/jromanmartin/) is the right place. You can also check my current
+Red Hat certifications 🎩 [here](https://rhtapps.redhat.com/verify?certId=180-010-845) ... however I am not very active
+to be a certificated technical professional (I am more interested to be an experienced professional).
 
 Cheers :beers: ! 
 
