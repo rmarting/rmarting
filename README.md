@@ -59,7 +59,7 @@ to be a certificated technical professional (I am more interested to be an exper
 
 Cheers :beers: ! 
 
-## 🏆 Github Stats 🏆 
+### 🏆 Github Stats 🏆 
 
 <div align="center">
 <table><tr><td valign="top" width="50%">
