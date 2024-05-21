@@ -59,4 +59,14 @@ to be a certificated technical professional (I am more interested to be an exper
 
 Cheers :beers: ! 
 
+## 🏆 Github Stats 🏆 
+
+<div align="center">
+<table><tr><td valign="top" width="50%">
+<img src="https://raw.githubusercontent.com/rmarting/github-stats/master/generated/overview.svg" align="left" style="width: 98%" />
+</td><td valign="top" width="50%">
+<img src="https://raw.githubusercontent.com/rmarting/github-stats/master/generated/languages.svg" align="left" style="width: 98%" />
+</td></tr></table>
+</div>
+
 Roman ;)
