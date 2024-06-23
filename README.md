@@ -21,20 +21,40 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-```shell
-❯ oc whoami
-rmarting, jromanmartin
+
+This is me, in short:
+
+```yaml
+apiVersion: developer/v48
+kind: PrincipalArchitect
+metadata:
+  name: Roman Martin Gil
+  namespace: CloudNative, Development, Agile, DevOps
+  annotations:
+    company: Red Hat
+    github: https://github.com/rmarting
+    linkedin: https://www.linkedid.com/in/jromanmartin
+  labels:
+    family: father, husband, friend
+    sports: runner, biker
+spec:
+  replicas: 1
 ```
-and 
+
+Applying changes:
 
 ```shell
+❯ kubectl apply -f me.yaml
+❯ oc whoami
+rmarting, jromanmartin
 ❯ oc describe user rmarting
 Name: Jose Roman Martin Gil
 Short-Name: Roman Martin
 Created: 48 years ago
 Labels: father, husband, friend, runner, curious, red hatter, developer (in any order)
 Annotations: Principal Architect @ Red Hat
-Identities: 
+Identities:
+  Blog: https://blog.jromanmartin.io
   GitHub: https://github.com/rmarting
   LinkedIn: ://www.linkedin.com/in/jromanmartin/
 ```
@@ -47,7 +67,7 @@ and migration of applications towards Open Source software.
 
 Currently I am working as Principal Architect at EMEA Solutions and Technology Practice in the Red Hat Professional Services
 helping our customers to achieve their goals. Focused in technical designing, providing reference architectures, executing proof of concepts,
-performance enhancements, writing technical documentation, giving workshops, reviewing automation's, processes ... 
+performance enhancements, writing technical documentation, giving workshops, reviewing automation's, processes ...
 
 I like to share my knowledge and experience writing articles or giving presentations in meetups. You could
 review my [blog](https://blog.jromanmartin.io). Always ready!!
@@ -57,9 +77,9 @@ my [LinkedIn profile](https://www.linkedin.com/in/jromanmartin/) is the right pl
 Red Hat certifications 🎩 [here](https://rhtapps.redhat.com/verify?certId=180-010-845) ... however I am not very active
 to be a certificated technical professional (I am more interested to be an experienced professional).
 
-Cheers :beers: ! 
+Cheers :beers: !
 
-### 🏆 Github Stats 🏆 
+### 🏆 Github Stats 🏆
 
 <div align="center">
 <table><tr><td valign="top" width="50%">
