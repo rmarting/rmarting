@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 This is me, in short:
 
 ```yaml
@@ -61,11 +60,11 @@ Identities:
 
 Nice to meet you :blush: !!!
 
-I’m Roman Martin, an IT professional with almost twenty years of experience in the software development industry.
+I’m Roman Martin, an IT professional 💻 with almost twenty years of experience 👴 in the software development industry.
 Highly qualified and experienced professional specialized in the areas of integration, modernization
-and migration of applications towards Open Source software.
+and migration of applications towards Open Source software and platforms.
 
-Currently I am working as Principal Architect at EMEA Solutions and Technology Practice in the Red Hat Professional Services
+Currently I am working as Principal Architect at EMEA Solutions and Technology Practice in the Red Hat Services
 helping our customers to achieve their goals. Focused in technical designing, providing reference architectures, executing proof of concepts,
 performance enhancements, writing technical documentation, giving workshops, reviewing automation's, processes ...
 
@@ -79,13 +78,23 @@ to be a certificated technical professional (I am more interested to be an exper
 
 Cheers :beers: !
 
-### 🏆 Github Stats 🏆
+### 🏆 GitHub Stats 🏆
 
 <div align="center">
 <table><tr><td valign="top" width="50%">
 <img src="https://raw.githubusercontent.com/rmarting/github-stats/master/generated/overview.svg" align="left" style="width: 98%" />
 </td><td valign="top" width="50%">
 <img src="https://raw.githubusercontent.com/rmarting/github-stats/master/generated/languages.svg" align="left" style="width: 98%" />
+</td></tr></table>
+</div>
+
+And more GitHub Stats by this ⭐ [amazing tool](https://github.com/anuraghazra/github-readme-stats)
+
+<div align="center">
+<table><tr><td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=rmarting&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent" align="left" style="width: 98%" />
+</td><td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmarting&langs_count=10&layout=compact" align="left" style="width: 98%" />
 </td></tr></table>
 </div>
 
